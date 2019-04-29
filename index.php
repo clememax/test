@@ -15,5 +15,6 @@ echo 'Je mets ce que je veux';
 </head>
 <body>
     <div id="cube">coucou</div>
+    <div id="othercube">coucou</div>
 </body>
 </html>
